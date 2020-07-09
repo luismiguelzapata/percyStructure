@@ -1,0 +1,3 @@
+---
+ansible_user: userk8s
+ansible_ssh_pass: Toor123*

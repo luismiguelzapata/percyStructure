@@ -1,0 +1,9 @@
+#[centos]
+#centos_7 ansible_host=13.52.134.26
+
+#[ubuntu]
+#ubuntu ansible_host=139.45.12.137
+
+[kube]
+kube_10 ansible_host=192.168.56.10
+
